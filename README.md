@@ -1,16 +1,25 @@
-### Hi there 👋
+# 🍡 (- Π = )
 
-<!--
-**tomocy/tomocy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## PGP public key + fingerprint
 
-Here are some ideas to get you started:
+```txt
+-----BEGIN PGP PUBLIC KEY BLOCK-----
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+mDMEYman7hYJKwYBBAHaRw8BAQdAVDyFCMMHgdMmrrzzX0A+3Ckn0DWAvsFD/C+c
++JuFMDO0HXRvbW9jeSA8dG9tb2N5LmRldkBnbWFpbC5jb20+iJAEExYKADgCGwMC
+F4AWIQSGFctLHZ23WPw+C1Kjg0uM1ip4mAUCYmazMwULCQgHAgYVCgkICwIEFgID
+AQIeBQAKCRCjg0uM1ip4mMk1AQCQsliyFNsn7uXfRVksXM8K9zFwrKtv7JnLMlsr
+oCnIfgEAv6KJF7R+4oq2M76Rpd0zlN/uaWDmOAZ9vCMn5E2wBAy4OARiZqfuEgor
+BgEEAZdVAQUBAQdA6wRIK0SSl4qsaf1v3J510XVlHUwxumBDPJn6XaoIkTUDAQgH
+iHgEGBYKACAWIQSGFctLHZ23WPw+C1Kjg0uM1ip4mAUCYman7gIbDAAKCRCjg0uM
+1ip4mHYzAQDxHyRIeZ5IHS9+JuYds98MU3qgPe92ZJ6OF17yKiCqRQEAo/ZN1JN2
+7Ei9Obi9GsjJ3H2miSPR5k9SuVdE8/6jbwc=
+=1ZgG
+-----END PGP PUBLIC KEY BLOCK-----
+```
+
+```txt
+8615CB4B1D9DB758FC3E0B52A3834B8CD62A7898
+```
+
+or [keybase.io](https://keybase.io/tomocy) (The fingerprint can also be found there).
